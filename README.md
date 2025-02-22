@@ -1,4 +1,4 @@
-## CS-255 System Design
+## System Design
 
 ### System Requirements:
 DriverPass required a system that allows customers to:
