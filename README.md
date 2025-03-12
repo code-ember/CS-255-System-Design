@@ -41,3 +41,5 @@ The approach that I would use to design software is a step-by-step method. This 
 
 ### What techniques or strategies would you use in the future to analyze and design a system?
 I would use the SDLC process to help create and clarify initial plans, designs, and implement systems quickly.
+
+## CS-255
